@@ -1,0 +1,27 @@
+{
+  "name": "Travel booking",
+  "version": "0.0.1",
+  "description": "Travel booking app",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "authors": [
+    "Paul Maltsev"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  "backbone": "1.0.0",
+  "modernizr": "~2.7.1",
+  "underscore": "~1.5.2"
+  }
+}
